@@ -1,0 +1,12 @@
+{
+  "name": "Smooth Library",
+  "author": "Lethal Hatred",
+  "version": "v1.0",
+  "manifest_version": 5,
+  "inject": {
+    "shared.css": [
+      "bigpicture"
+    ]
+  },
+  "id": "3siski187-d6f6-7jh7-a82e-87jh7137ef7e"
+}
