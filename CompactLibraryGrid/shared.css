@@ -12,3 +12,12 @@
     padding: 15px;
     justify-content: center;
 }
+
+.BasicUI .appportrait_LibraryItemBoxSubscript_1LJqx {
+    width: fit-content;
+    padding-top: 2px !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+    border-radius: 10px !important;
+    bottom: 25px !important;
+}
